@@ -1,0 +1,15 @@
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\bin\Debug\net6.0\helloworldApp.exe
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\bin\Debug\net6.0\helloworldApp.deps.json
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\bin\Debug\net6.0\helloworldApp.runtimeconfig.json
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\bin\Debug\net6.0\helloworldApp.dll
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\bin\Debug\net6.0\helloworldApp.pdb
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.csproj.AssemblyReference.cache
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.AssemblyInfoInputs.cache
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.AssemblyInfo.cs
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.csproj.CoreCompileInputs.cache
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.dll
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\refint\helloworldApp.dll
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.pdb
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\helloworldApp.genruntimeconfig.cache
+C:\Users\PROMACT\source\repos\helloworldApp\helloworldApp\obj\Debug\net6.0\ref\helloworldApp.dll
